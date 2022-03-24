@@ -1,0 +1,32 @@
+main {
+  text-align: center;
+ 
+}
+*{
+  margin: 10px;
+}
+.container{
+  color: red;
+  background-color:grey;
+  border-radius:6px;  
+  }
+h1{
+  color:navy;
+}
+h5{
+  color:blue;
+}
+
+.btn{
+   background-color: deeppink;
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 5px;
+  color:white
+}
+.btn:hover{
+  
+  background-color: forestgreen;
+  
+}
